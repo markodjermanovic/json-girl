@@ -1,0 +1,103 @@
+{"frames": {
+
+"Comp 3_00290.png":
+{
+	"frame": {"x":0,"y":0,"w":710,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":710,"h":400},
+	"sourceSize": {"w":710,"h":400},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Comp 3_00291.png":
+{
+	"frame": {"x":710,"y":0,"w":710,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":710,"h":400},
+	"sourceSize": {"w":710,"h":400},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Comp 3_00292.png":
+{
+	"frame": {"x":0,"y":400,"w":710,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":710,"h":400},
+	"sourceSize": {"w":710,"h":400},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Comp 3_00293.png":
+{
+	"frame": {"x":710,"y":400,"w":710,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":710,"h":400},
+	"sourceSize": {"w":710,"h":400},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Comp 3_00294.png":
+{
+	"frame": {"x":0,"y":800,"w":710,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":710,"h":400},
+	"sourceSize": {"w":710,"h":400},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Comp 3_00295.png":
+{
+	"frame": {"x":710,"y":800,"w":710,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":710,"h":400},
+	"sourceSize": {"w":710,"h":400},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Comp 3_00296.png":
+{
+	"frame": {"x":0,"y":1200,"w":710,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":710,"h":400},
+	"sourceSize": {"w":710,"h":400},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Comp 3_00297.png":
+{
+	"frame": {"x":710,"y":1200,"w":710,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":710,"h":400},
+	"sourceSize": {"w":710,"h":400},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Comp 3_00298.png":
+{
+	"frame": {"x":0,"y":1600,"w":710,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":710,"h":400},
+	"sourceSize": {"w":710,"h":400},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"Comp 3_00299.png":
+{
+	"frame": {"x":710,"y":1600,"w":710,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":710,"h":400},
+	"sourceSize": {"w":710,"h":400},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "anim-29.png",
+	"format": "RGBA8888",
+	"size": {"w":1420,"h":2000},
+	"scale": "1",
+	"related_multi_packs": [ "anim-0.json", "anim-1.json", "anim-2.json", "anim-3.json", "anim-4.json", "anim-5.json", "anim-6.json", "anim-7.json", "anim-8.json", "anim-9.json", "anim-10.json", "anim-11.json", "anim-12.json", "anim-13.json", "anim-14.json", "anim-15.json", "anim-16.json", "anim-17.json", "anim-18.json", "anim-19.json", "anim-20.json", "anim-21.json", "anim-22.json", "anim-23.json", "anim-24.json", "anim-25.json", "anim-26.json", "anim-27.json", "anim-28.json", "anim-30.json", "anim-31.json", "anim-32.json", "anim-33.json", "anim-34.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ef1f87f87507aa5036a1a6633279916e:59575e14b75b0b8b7d150c9fe9755b2d:404754a728970c8b8ca216571aa8c956$"
+}
+}
